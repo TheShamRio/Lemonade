@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Lemonade</string>
+    <string name="lemon_select">Выберите лимон</string>
+    <string name="lemon_squeeze">Сожмите лимон</string>
+    <string name="lemon_drink">Выпейте лимонад</string>
+    <string name="lemon_empty_glass">Стакан пуст</string>
+    <string name="empty_glass_content_description">Стакан пуст\n</string>
+    <string name="lemonade_content_description">Выпейте лимонад</string>
+    <string name="lemon_content_description">Выжмите лимон</string>
+    <string name="lemon_tree_content_description">Соберите лимоны</string>
 </resources>
